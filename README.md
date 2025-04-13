@@ -35,4 +35,4 @@ Click on Generate Password.
 Click the copy icon 📋 to copy it to clipboard.
 
 📸 Demo
-Try it live 👉 
+Try it live 👉 https://securemint.netlify.app/
